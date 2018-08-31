@@ -42,6 +42,7 @@ class Singleton
 		}
 
 		return Obj;
+//my master branch commit
 
 	}
 
