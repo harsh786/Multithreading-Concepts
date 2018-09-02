@@ -44,10 +44,18 @@ class Singleton
 
 		return Obj;
 
+
 //my master branch commit
 
 //harsh git demo branch1
 //harsh git pull demo branch1
+
+
+//harsh git demo branch1
+//harsh git pull demo branch1
+
+//my master branch commit
+
 
 
 	}
