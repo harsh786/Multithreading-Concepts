@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import javax.swing.plaf.synth.SynthLookAndFeel;
+//change in branch1 to test for git
 
 /**
  * 
@@ -42,7 +43,12 @@ class Singleton
 		}
 
 		return Obj;
+
 //my master branch commit
+
+//harsh git demo branch1
+//harsh git pull demo branch1
+
 
 	}
 
